@@ -1,4 +1,4 @@
 token=NTM3NTIxNzk1NTk5Njk1ODc3.Dymeow.GVOmz_0H2FvtLvyAqYlTtlyMEyo
-owner=456263449295585281
+owner=530972822722445312
 prefix=2
-game=Business Server || 2play
+game=Tornado Network || 2play
